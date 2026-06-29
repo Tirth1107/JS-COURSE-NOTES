@@ -55,10 +55,39 @@ But till than I am sorry for this mess.
 
 - I am updating and adding some new files with this commit.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 29th June 2026 (11:26 PM)
+
+- Completed this course till *5:22:19*
+
+- Today I have completed 2 more types of funtions 
+
+- 1. First Class Functions
+- 2. Higher Order Functions
+
+- I have added all the notes in this commits yes I am late but I am consistent I have not left this course yet and will not leave it at all till I complete this course.
+
+- My new goal is to complete this whole course in just 2 days.
+- Today is June 29th and I want this part 1 to be completed on 31st of June.
+
+- I will do this at any cost even if I had to spent night of 30th completing this.
+
+- This will be my schedule(I am adding this as I dont want to forgort this) :
+    - After College(5Pm) I will sit to watch this and about 2.5 hrs is remaining and I have 48 hours to complete it.
+    - Then I will go to gym at 9pm and till then I have target to complete 1.5hrs more like till 7hrs.
+    - On 31st I will have 1hrs remaining and it will be easy to complete this on 31st.
+
+    
+
+    - _Means My Target Is to complete this course in 2 fucking days any how. and I will do this any how._
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### By ❤️ Of Tirth Joshi.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-**Updated :- 21st June, 2026**
-*23:22*
+**Updated :- 29th June, 2026** (_Yes I am late I was busy last 7 days sorry_)
+*23:37*
